@@ -1,7 +1,7 @@
 """
 Leetcode Q498 - Diagonal Traverse
 
-Given an m x n matrix mat, return an array of all the elements of the array in a diagonal order.
+Given an m x n Matrix mat, return an array of all the elements of the array in a diagonal order.
 
  
 Example 1:

@@ -24,7 +24,7 @@ n == mat[i].length
 -105 <= mat[i][j] <= 105
 """
 
-class Solution:
+class MatrixParser:
     def findDiagonalOrder(self, mat: List[List[int]]) -> List[int]:
         forward, down = 1, -1
         row, col = 0, 0
